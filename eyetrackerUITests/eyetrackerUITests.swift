@@ -2,9 +2,6 @@
 //  eyetrackerUITests.swift
 //  eyetrackerUITests
 //
-//  Created by Sam on 23/6/2020.
-//  Copyright © 2020 Sam. All rights reserved.
-//
 
 import XCTest
 
